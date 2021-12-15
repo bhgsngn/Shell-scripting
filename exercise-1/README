@@ -1,0 +1,8 @@
+L'exercise-1 etait guidé on a tout simplement suivi les conseils du pdf
+
+pour l'afficher comme le pdf on a creer un script avec : ls -Rahl 
+
+-R pour le mettre en recursif
+-a  pour afficher les fichiers cachés
+-h pour que les humains puissent lire avec un taille acceptable
+-l pour les mettres en listes 
