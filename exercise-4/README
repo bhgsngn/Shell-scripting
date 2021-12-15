@@ -1,0 +1,7 @@
+Pour l'exercise-4 nous devons creer un code a 2 arguments;
+J'ai creer un scipt qui suis le modele du pseudo-code sauf qu'il me retourne une erreur
+
+Pour le script nous avons recontré un probleme, lors de la condition dans la boucle if nous avons mis les deux arguments sous la forme de $1 et $2
+et le probleme etait pour le nombre de parametre a prendre en compte.
+
+Le script marche en faisant : ./salutation.sh prenom nom, mais il y a une erreur qui s'affiche.
