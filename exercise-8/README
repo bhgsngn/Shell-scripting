@@ -1,0 +1,5 @@
+Pour le dernier exercice nous avons creer un script guessing_game.sh
+et mis dedans comme ce qu'il y avait dans le pdf
+
+Pour l'executer il faut faire : ./guessing_game.sh
+et pour quitter le script il faut faire CTRL+C
