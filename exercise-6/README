@@ -1,0 +1,9 @@
+Pour cet exercise-6; nous avons d'abord fait tout les dossiers et fichiers comme la structure du pdf
+c'est a dire qu'on a creer a chaque fois un fichier a la main
+
+Puis on s'est rendu compte qu'il fallait faire un script
+On a donc creer un vim pour ecrire le script avec le meme contenu
+On a creer juste un touch my_ansible.sh avec tout le script dedans.
+Et donc on a supprimer la premiere version de ce qu'on avait fait
+
+Pour l'afficher comme dans le pdf on a fait cette commande : ls-R 
