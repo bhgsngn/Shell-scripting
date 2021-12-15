@@ -1,0 +1,15 @@
+Premiere partie de l'exercise 3 nous avons commencé par un script ls_ordered_with_arguments
+ et on a fait un vim pour mettre tous les echo
+Apres on pouvait modifié ce qui etait apres le $ avec un : ./nom_du_fichier.sh et ce que vont mettre
+
+on a rencontré un probleme; c'etait pour la permission: apres quelques recherches on a donc fait un
+chmod +x et le nom du fichier.sh
+
+et juste apres pour afficher on a fait un :
+cat et le nom du fichier
+
+Et pour l'executer on a fait un ./le nom du fichier.sh
+
+Pour la deuxieme partie de l'exercise-3; on a creer un deuxieme script ( exit_script.sh) et 
+on a utiliser la nouvelle commande exit
+et on suivi le code. 
