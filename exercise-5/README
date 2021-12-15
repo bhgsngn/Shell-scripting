@@ -1,0 +1,4 @@
+ Pour cet exercise-5, on recreer un script salutation_advanced.sh avec dedans,
+ nous etais donné des conditions
+Si le prenom et le nom donné sont les memes, il suffit d'afficher le prenom et le nom ne peuvent pas etre 
+le meme, et sortir avec un code erreur 2
