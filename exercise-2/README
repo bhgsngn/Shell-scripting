@@ -1,0 +1,10 @@
+
+On a commencé comme pour l'exercise 1, celui ci aller plus loin, nous etions bloqué,
+On a donc regarder dans le man ls.
+et pour l'affichage comme celui du TP nous avons effectué les commandes suivante:
+
+ls -l -S
+On a donc fait un script qui contient seulement l'affichage 
+
+Pour lister en colonne c'est ls - l
+Pour lister en taille decroissante c'est ls -S
